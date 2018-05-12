@@ -1,0 +1,46 @@
+_repo: Deutsche-Charaktere-und-Begebenheiten_18258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wassermann, Jakob
+    alias: Wassermann, Jacob
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '6236'
+    url: http://www.gutenberg.org/2009/agents/6236
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jakob_Wassermann
+    - http://de.wikipedia.org/wiki/Jakob_Wassermann
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2006-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18258'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wallenstein, Albrecht Wenzel Eusebius von, Herzog von Friedland, 1583-1634'
+- !lcsh 'Maurice, Elector of Saxony, 1521-1553'
+- !lcsh 'Germany -- Biography'
+- !lcsh 'Danckelman, Eberhard Christoph Balthasar Freiherr von, 1643-1722'
+- !lcsh 'Charles Augustus, Grand Duke of Saxe-Weimar-Eisenach, 1757-1828'
+- !lcsh 'Frederick William I of Prussia, 1688-1740'
+- !lcc 'DD'
+- !lcsh 'Böttcher, Johann Friedrich, 1682-1719'
+- !lcsh 'Rudolf II, Holy Roman Emperor, 1552-1612'
+- !lcc 'CT'
+- !lcsh 'Thurneysser, Leonhard, 1531-1595'
+- !lcsh 'Nettelbeck, Joachim Christian, 1738-1824'
+tableOfContents: Szene zwischen Friedrich dem Großen und Ziethen -- Böttiger -- Moritz
+  von Sachsen  -- Wallenstein -- Leonhard Thurneyßer -- Danckelmann -- Kaiser Rudolf
+  II. und sein Hof -- Hochzeit Fräulein Reginens, Herrin von Tschernembel, mit Herrn
+  Reichard Strein -- Friedrich Wilhelm I. von Preußen -- Joachim Nettelbeck -- Christian
+  Holzwart -- Karl August von Weimar
+title: Deutsche Charaktere und Begebenheiten
+url: http://www.gutenberg.org/ebooks/18258
